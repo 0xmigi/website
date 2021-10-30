@@ -1,9 +1,7 @@
 baseURL: https://migi.eth.git/
 languageCode: en-us
 title: migi
-paginate: 5
 theme: PaperMod
-relativeUrls: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -45,11 +43,11 @@ params:
         favicon16x16: favicon/favicon-16x16.png
         favicon32x32: favicon/favicon-32x32.png
         apple_touch_icon: favicon/apple-touch-icon.png
-       # safari_pinned_tab: favicon/safari-pinned-tab.svg
+        safari_pinned_tab: favicon/safari-pinned-tab.svg
 
     label:
         text: "Home"
-        icon: /apple-touch-icon.png
+        icon: favicon/apple-touch-icon.png
         iconHeight: 35
 
     # profile-mode
