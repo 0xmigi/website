@@ -44,13 +44,9 @@ editPost:
 
 [_](https://www.google.com/maps/place/Brooklyn,+NY,+USA/@40.6453531,-74.0150367,12z/data=!3m1!4b1!4m5!3m4!1s0x89c24416947c2109:0x82765c7404007886!8m2!3d40.6781784!4d-73.9441579) utc-4
 
-[_](azuolascompy@gmail.com) email
-
 [_](https://twitter.com/0xmigi) twitter
 
 [_](https://github.com/0xmigi) github
-
-[_](https://www.linkedin.com/in/azuolas-compy/)  linkedin
 
 [_](https://gitcoin.co/ash-ralas)  gitcoin
 ***
