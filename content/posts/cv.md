@@ -1,0 +1,129 @@
+---
+title: "cv"
+date: 2020-09-15T11:30:03+00:00
+# weight: 1
+# aliases: ["/first"]
+tags: ["cv"]
+author: "Me"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: true
+comments: false
+description: "curriculum vitae 🦇 🔊"
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: true
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+weight: 1
+cover:
+    image:  # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/0xmigi/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
+
+***
+
+*"I'm a full time blockchain technologies enthusiast and independent researcher."*
+
+---
+
+**Contact information**
+
+* Location - UTC-4, remote
+* Email  - azuolascompy@gmail.com
+* LinkedIn - azuolas-compy
+* Twitter - [@0xmigi](https://twitter.com/0xmigi)
+* Github - [@0xmigi](https://github.com/0xmigi)
+
+***
+
+**Work experience**
+
+
+Solidity Developer
+
+[MetAvatar](https://metavatar.digital/), remote – *(01/10/2021-present)*
+
+Assisted in thinking through and building NFT minting page/website. Researched other projects code and wrote smart contracts designed for ongoing NFT platform.
+
+
+
+Freelance Researcher
+
+on-chain, remote – *(12/01/2021-present)*
+
+Spent nearly a full year fascinated with blockchain technologies and mentally exploring what is possible using such a mechanism in society. Unpaid and for no reason other than following my own curiosity I have been exploring the space and learning all I can in order to eventually build something myself.
+
+***
+**Skills**
+
+
+Solidity 
+
+My programming language of interest, I have been learning it since May of 2021 starting with CryptoZombies and proceeding on through self taught methods. Currently I have reached a level of understanding useful enough to write simple smart contracts and read general open-source code I find interest in. 
+
+ 
+
+Javascript 
+
+Generally my most used programming language, I have been learning it alongside Solidity for 5 months now and depend on it to build front end interfaces and interact with the .sol contracts I have deployed. 
+
+
+
+Typescript 
+
+My more recent programming language endeavorer, I have been learning it due to it's static types and explicit preferences in my most recent job. Have been using it for a couple weeks so still quite inexperienced.
+
+***
+**Projects**
+
+MetAvatar - smart contract developer
+
+* MetAvatar is an educational and fun NFT Collection that will bring gamified learning to kids across the world. We will explore aspects of traditional education along with essential concepts and skills often overlooked by most formal schooling systems.
+
+
+
+
+***
+**Spoken Languages**
+
+
+* English - *Fluent*
+
+* German - *Intermediate*
+
+* Lithuanian - *Native speaker*
+
+***
+**Education**
+
+
+* [BSc Architecture and Environmental Design](https://www.westminster.ac.uk/architecture-interiors-and-urban-design-courses/2022-23/september/full-time/architecture-and-environmental-design-bsc-honours) - London, UK
+
+   University of Westminster *(2018-present unfinished due to relocation)*
+
+***
+**Certificates**
+
+
+* Introduction to Solidity & Web3 Applications - [_buildspace](https://buildspace.so/)
+
+   *(08/2021, etherscan.io)* - [0x322A88a26C23D45c7887711caDF055275701738E](https://etherscan.io/address/0x322a88a26c23d45c7887711cadf055275701738e)
+
+
+* Build a Web3 App: Mint Your Own NFT collection - [_buildspace](https://buildspace.so/)
+
+  *(09/2021, polygonscan.com)* - [0x3CD266509D127d0Eac42f4474F57D0526804b44e](https://polygonscan.com/address/0x3cd266509d127d0eac42f4474f57d0526804b44e) 

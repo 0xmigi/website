@@ -24,28 +24,20 @@ languages:
                 - name: Search
                   url: search/
                   weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
 
-    cv:
+    1997:
         languageName: ":cv:"
         languageAltTitle: curriculum vitae
-        weight: 1
-        title: PaperModL2
+        weight: 0.5
+        title: pls gib job
         profileMode:
+            imageUrl: /images/decentralized human.jpeg
+            imageTitle: my image
+            imageWidth: 420
+            imageHeight: 420
             enabled: true
-            title: PaperMod
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
+            subtitle: "sus"
+           
         
 
 outputs:
@@ -90,7 +82,7 @@ params:
 
     label:
         text: "migi"
-        icon: favicon/apple-touch-icon.png
+        icon: /favicon/apple-touch-icon.png
         iconHeight: 35
 
     # profile-mode
@@ -116,9 +108,9 @@ params:
 
             - im a smart contract developer and independent blockchain technologies researcher.
 
-            - currently im helping build [MetAvatar](https://metavatar.digital/) (a NFT project) and applying to become an intern at [nansen.ai](https://www.nansen.ai/)
+            - currently im helping build [MetAvatar](https://metavatar.digital/) (NFT project) and applying to become an intern at [nansen.ai](https://www.nansen.ai/)
             
-            - i exist at UTC-4
+            - i want to work in web3 really fckn bad
 
     socialIcons:
         - name: twitter
