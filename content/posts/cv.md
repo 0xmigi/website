@@ -11,10 +11,10 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "curriculum vitae 🦇 🔊"
+description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: true
 searchHidden: true
@@ -34,23 +34,28 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-***
+
 
 *"I'm a full time blockchain technologies enthusiast and independent researcher."*
 
----
-
-**Contact information**
-
-* Location - UTC-4, remote
-* Email  - azuolascompy@gmail.com
-* LinkedIn - azuolas-compy
-* Twitter - [@0xmigi](https://twitter.com/0xmigi)
-* Github - [@0xmigi](https://github.com/0xmigi)
-
 ***
 
-**Work experience**
+**contact information**
+
+[_](https://www.google.com/maps/place/Brooklyn,+NY,+USA/@40.6453531,-74.0150367,12z/data=!3m1!4b1!4m5!3m4!1s0x89c24416947c2109:0x82765c7404007886!8m2!3d40.6781784!4d-73.9441579) utc-4
+
+[_](azuolascompy@gmail.com) email
+
+[_](https://twitter.com/0xmigi) twitter
+
+[_](https://github.com/0xmigi) github
+
+[_](https://www.linkedin.com/in/azuolas-compy/)  linkedin
+
+[_](https://gitcoin.co/ash-ralas)  gitcoin
+***
+
+**work experience**
 
 
 Solidity Developer
@@ -119,11 +124,15 @@ MetAvatar - smart contract developer
 **Certificates**
 
 
-* Introduction to Solidity & Web3 Applications - [_buildspace](https://buildspace.so/)
+- Introduction to Solidity & Web3 Applications - [_buildspace](https://buildspace.so/)
 
    *(08/2021, etherscan.io)* - [0x322A88a26C23D45c7887711caDF055275701738E](https://etherscan.io/address/0x322a88a26c23d45c7887711cadf055275701738e)
 
 
-* Build a Web3 App: Mint Your Own NFT collection - [_buildspace](https://buildspace.so/)
+- Build a Web3 App: Mint Your Own NFT collection - [_buildspace](https://buildspace.so/)
 
   *(09/2021, polygonscan.com)* - [0x3CD266509D127d0Eac42f4474F57D0526804b44e](https://polygonscan.com/address/0x3cd266509d127d0eac42f4474f57d0526804b44e) 
+
+
+
+  

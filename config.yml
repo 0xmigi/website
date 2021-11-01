@@ -29,15 +29,18 @@ languages:
         languageName: ":cv:"
         languageAltTitle: curriculum vitae
         weight: 0.5
-        title: pls gib job
+        title: 
         profileMode:
             imageUrl: /images/decentralized human.jpeg
             imageTitle: my image
             imageWidth: 420
             imageHeight: 420
             enabled: true
-            subtitle: "sus"
-           
+            subtitle: "more coming soon"
+
+        menu:
+            main:
+                - name:  
         
 
 outputs:
@@ -110,13 +113,15 @@ params:
 
             - currently im helping build [MetAvatar](https://metavatar.digital/) (NFT project) and applying to become an intern at [nansen.ai](https://www.nansen.ai/)
             
-            - i want to work in web3 really fckn bad
+            - ive been obsessed with blockchain tech and decentralized social mechanism design since dec.2020 and have spent most of my time since learning code or ignoring taxable events in defi...
 
     socialIcons:
         - name: twitter
           url: "https://twitter.com/0xmigi"
         - name: github
           url: "https://github.com/0xmigi"
+        - name: KoFi
+          url: "https://ko-fi.com/0xmigi"
         - name: discord
           url: "https://discord.com/users/0xmigi#6739"  
 

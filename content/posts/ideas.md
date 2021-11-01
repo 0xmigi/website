@@ -1,22 +1,22 @@
 ---
-title: "random ideas"
+title: ""
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["blog"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: false
-hidemeta: false
+draft: true
+hidemeta: true
 comments: false
-description: "public pinboard of my protocol ideas"
+description: blog
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
