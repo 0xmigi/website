@@ -109,14 +109,14 @@ params:
         Content: >
             hi, this is my website
 
-            - im a smart contract developer.
+            - im a smart contract developer (newb).
 
             - currently im helping build [MetAvatar](https://metavatar.digital/) (NFT project) and applying to become an intern at [nansen.ai](https://www.nansen.ai/)
             
             - ive been obsessed with blockchain tech since dec/2020 and have spent most of my time learning code or ignoring taxable events since...
             
             - i need a job
-            
+
     socialIcons:
         - name: twitter
           url: "https://twitter.com/0xmigi"
