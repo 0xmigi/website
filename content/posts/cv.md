@@ -36,7 +36,7 @@ editPost:
 
 
 
-*"I'm a full time blockchain technologies enthusiast and independent researcher."*
+*"I'm a full time web3 enjoyer and independent researcher."*
 
 ***
 
@@ -88,6 +88,13 @@ Typescript
 
 My more recent programming language endeavorer, I have been learning it due to it's static types and explicit preferences in my most recent job. Have been using it for a couple weeks so still quite inexperienced.
 
+
+
+React JS
+
+My UI building library of choice, as it seems to be one of the most popular in the space and works well with popular web3 tooling/documentation. 
+
+
 ***
 **Projects**
 
@@ -120,15 +127,23 @@ MetAvatar - smart contract developer
 **Certificates**
 
 
-- Introduction to Solidity & Web3 Applications - [_buildspace](https://buildspace.so/)
+- [Introduction to Solidity & Web3 Applications](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/858) - [_buildspace](https://buildspace.so/)
 
    *(08/2021, etherscan.io)* - [0x322A88a26C23D45c7887711caDF055275701738E](https://etherscan.io/address/0x322a88a26c23d45c7887711cadf055275701738e)
 
 
-- Build a Web3 App: Mint Your Own NFT collection - [_buildspace](https://buildspace.so/)
+- [Build a Web3 App: Mint Your Own NFT collection](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/755) - [_buildspace](https://buildspace.so/)
 
   *(09/2021, polygonscan.com)* - [0x3CD266509D127d0Eac42f4474F57D0526804b44e](https://polygonscan.com/address/0x3cd266509d127d0eac42f4474f57d0526804b44e) 
 
 
+- [Buildspace: Build a Solana App](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/3093) - [_buildspace](https://buildspace.so/)
+
+  *(09/2021, polygonscan.com)* - [0x3CD266509D127d0Eac42f4474F57D0526804b44e](https://polygonscan.com/address/0x3cd266509d127d0eac42f4474f57d0526804b44e)
+
+
+- [Buildspace: Solana NFT Collection](https://opensea.io/assets/matic/0x3cd266509d127d0eac42f4474f57d0526804b44e/5264) - [_buildspace](https://buildspace.so/)
+
+  *(09/2021, polygonscan.com)* - [0x3CD266509D127d0Eac42f4474F57D0526804b44e](https://polygonscan.com/address/0x3cd266509d127d0eac42f4474f57d0526804b44e) 
 
   
