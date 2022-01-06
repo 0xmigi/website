@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://github.com/0xmigi/migi.eth.git
 languageCode: en-us
 title: migi likes decentralized stuff 
 theme: PaperMod
@@ -57,8 +57,8 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: migi likes decentralized stuff
-        subtitle: "This is subtitle"
+        title: migi
+        subtitle: "welcome to my blog"
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -110,10 +110,10 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 20
         - identifier: tags
           name: tags
           url: /tags/
