@@ -107,15 +107,15 @@ params:
     homeInfoParams:
         Title: "migi"
         Content: >
-            hi, this is my website
+            hi, welcome to my website
 
-            - im a smart contract developer(newb) and mememaker.
+            - im a smart contract developer(newb), mememaker and, frontend builder.
 
             - currently im building [gasFees.lol](https://gasfees.lol/) and learning to push code
             
             - ive been obsessed with blockchain tech since dec/2020 and have spent most of my time learning to build or ignoring taxable events since...
 
-            - if you need help with your project i can community manage or write amateur code 
+            - open to React, Javascript, and Solidity oriented work
 
     socialIcons:
         - name: twitter

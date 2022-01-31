@@ -52,7 +52,11 @@ editPost:
 ***
 
 **work experience**
+FullStack Web3 Builder
 
+[gasFees.lol](https://gasfees.lol/), remote - *(05/12/2021-present)*
+
+Desinged and built a multi chain gas fee dashboard for tracking and comparing transaction costs across popular L1, L2 and, side chains. Still a work in progess but has around +-1000 users.
 
 Solidity Developer
 
@@ -92,11 +96,16 @@ My more recent programming language endeavorer, I have been learning it due to i
 
 React JS
 
-My UI building library of choice, as it seems to be one of the most popular in the space and works well with popular web3 tooling/documentation. 
+My UI building library of choice, as it seems to be one of the most popular in the space and works well with popular web3 tooling/documentation. Have built a couple websites with it and find it easy to work with/do what I want.
 
 
 ***
 **Projects**
+
+gasFees.lol - developer
+
+* gasFees.lol is a multichain transaction fee tracking dashboard for client facing use. Allows anyone to search a wallet, ENS address, or connect a wallet and get all the historical transaction fees associated with that wallet. A work in progress but taking a lot of inspiration from Zapper.fi.
+
 
 MetAvatar - smart contract developer
 
