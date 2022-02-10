@@ -93,7 +93,7 @@ params:
         enabled: false # needs to be explicitly set
         title: migi
         subtitle: metaverse bounty hunter, yield farmer, flesh bound nomad
-        imageUrl: images/self-portrait.JPG
+        imageUrl: images/self-portrait1.JPG
         imageWidth: 120
         imageHeight: 120
         imageTitle: me
