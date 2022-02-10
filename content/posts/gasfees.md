@@ -23,7 +23,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 weight: 1
 cover:
-    image: "<image images/gasFeesCover.png>"
+    image: "<image static/images/gasFeesCover.png>"
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,7 +38,7 @@ editPost:
 
 **transaction fee dashboard for all chains**
 
-![Example image](images/gasFeesCover.png)
+![](/static/images/gasFeesCover.png)
 
 ***
 
