@@ -1,28 +1,29 @@
 ---
-title: ""
+title: "gasFees.lol"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["blog"]
+tags: ["project"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: true
 comments: false
-description: blog
+description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
 hideSummary: true
-searchHidden: false
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+weight: 1
 cover:
-    image: favicon/apple-touch-icon.png # image path/url
+    image:  # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
