@@ -38,7 +38,7 @@ editPost:
 
 **transaction fee dashboard for all chains**
 
-![](/static/images/gasFeesCover.png)
+![gasFees site](/static/images/gasFeesCover.png)
 
 ***
 
