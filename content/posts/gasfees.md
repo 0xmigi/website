@@ -8,7 +8,7 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: true
 comments: false
 description: ""
@@ -23,7 +23,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 weight: 1
 cover:
-    image: "<image static/images/gasFeesCover.png>"
+    image: "<image images/gasFeesCover.png>"
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,7 +38,7 @@ editPost:
 
 **transaction fee dashboard for all chains**
 
-![gasFees site](/static/images/gasFeesCover.png)
+![gasFees site](static/images/gasFeesCover.png)
 
 ***
 
