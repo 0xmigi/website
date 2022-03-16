@@ -36,7 +36,7 @@ editPost:
 
 
 
-*"I'm a full time web3 enjoyer and independent researcher."*
+*"building, exploring, enjoying, and repeating"*
 
 ***
 
@@ -48,17 +48,32 @@ editPost:
 
 [_](https://github.com/0xmigi) github
 
-[_](https://gitcoin.co/ash-ralas)  gitcoin
+[_](https://gitcoin.co/0xmigi)  gitcoin
 ***
 
 **work experience**
-FullStack Web3 Builder
+User Support 
+
+[Gitcoin](https://gitcoin.co/), remote - *(18/02/2022-present)*
+
+Actively helping within GitcoinDAO with User Support and getting more invoved in other workstreams.
+
+
+Frontend React.js  
+
+[chewy](https://cwy.money/), remote - *(23/02/2022-present)*
+
+Build a frontend with react.js and plain CSS.
+
+
+FullStack Web3
 
 [gasFees.lol](https://gasfees.lol/), remote - *(05/12/2021-present)*
 
 Desinged and built a multi chain gas fee dashboard for tracking and comparing transaction costs across popular L1, L2 and, side chains. Still a work in progess but has around +-1000 users.
 
-Solidity Developer
+
+Solidity Development
 
 [MetAvatar](https://metavatar.digital/), remote – *(01/10/2021-present)*
 
@@ -66,11 +81,11 @@ Assisted in thinking through and building NFT minting page/website. Researched o
 
 
 
-Freelance Researcher
+Independant Research
 
 on-chain, remote – *(12/01/2021-present)*
 
-Spent nearly a full year fascinated with blockchain technologies and mentally exploring what is possible using such a mechanism in society. Unpaid and for no reason other than following my own curiosity I have been exploring the space and learning all I can in order to eventually build something myself.
+Spent over a year fascinated with blockchain technologies and mentally exploring what is possible using such a mechanism in society. Unpaid and for no reason other than following my own curiosity I have been exploring the space and learning all I can in order to eventually build something myself.
 
 ***
 **Skills**
