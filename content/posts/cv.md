@@ -52,11 +52,12 @@ editPost:
 ***
 
 **work experience**
+
 User Support 
 
 [Gitcoin](https://gitcoin.co/), remote - *(18/02/2022-present)*
 
-Actively helping within GitcoinDAO with User Support and getting more invoved in other workstreams.
+Actively helping within GitcoinDAO with User Support, getting more invoved in other workstreams like FDD
 
 
 Frontend React.js  
