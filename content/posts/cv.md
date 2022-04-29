@@ -36,7 +36,6 @@ editPost:
 
 
 
-*"building, exploring, enjoying, and repeating"*
 
 ***
 
@@ -69,6 +68,11 @@ Build a frontend with react.js and plain CSS.
 
 FullStack Web3
 
+[brydge.network](https://brydge.network/), remote - *(01/03/2021-01/04/2021)*
+
+helped UI aspects of startup website and widget product
+
+
 [gasFees.lol](https://gasfees.lol/), remote - *(05/12/2021-present)*
 
 Desinged and built a multi chain gas fee dashboard for tracking and comparing transaction costs across popular L1, L2 and, side chains. Still a work in progess but has around +-1000 users.
@@ -79,7 +83,6 @@ Solidity Development
 [MetAvatar](https://metavatar.digital/), remote – *(01/10/2021-present)*
 
 Assisted in thinking through and building NFT minting page/website. Researched other projects code and wrote smart contracts designed for ongoing NFT platform.
-
 
 
 Independant Research
@@ -94,26 +97,13 @@ Spent over a year fascinated with blockchain technologies and mentally exploring
 
 Solidity 
 
-My programming language of interest, I have been learning it since May of 2021 starting with CryptoZombies and proceeding on through self taught methods. Currently I have reached a level of understanding useful enough to write simple smart contracts and read general open-source code I find interest in. 
-
- 
-
 Javascript 
-
-Generally my most used programming language, I have been learning it alongside Solidity for 5 months now and depend on it to build front end interfaces and interact with the .sol contracts I have deployed. 
-
-
 
 Typescript 
 
-My more recent programming language endeavorer, I have been learning it due to it's static types and explicit preferences in my most recent job. Have been using it for a couple weeks so still quite inexperienced.
+React 
 
-
-
-React JS
-
-My UI building library of choice, as it seems to be one of the most popular in the space and works well with popular web3 tooling/documentation. Have built a couple websites with it and find it easy to work with/do what I want.
-
+Next 
 
 ***
 **Projects**
