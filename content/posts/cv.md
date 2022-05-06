@@ -63,7 +63,7 @@ Frontend React.js
 
 [chewy](https://cwy.money/), remote - *(23/02/2022-present)*
 
-Build a frontend with react.js and plain CSS.
+Build a frontend with react.js and plain CSS. ex: [site](https://still-brook-8232.on.fleek.co/)
 
 
 FullStack Web3
