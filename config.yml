@@ -92,7 +92,7 @@ params:
     profileMode:
         enabled: false # needs to be explicitly set
         title: migi
-        subtitle: metaverse bounty hunter, yield farmer, flesh bound nomad
+        subtitle: 
         imageUrl: images/migi.jpeg
         imageWidth: 120
         imageHeight: 120
@@ -109,11 +109,11 @@ params:
         Content: >
             hi, welcome to my website
 
-            - im a smart contract developer(newb), mememaker and, frontend builder.
+            - i'm currently enjoying the internet and staying healthly
 
-            - currently im contributing at GitcoinDAO, building [gasFees.lol](https://gasfees.lol/) and learning to push code
+            - i help out at [AGD](https://aavegrants.org/) and less often at [GitcoinDAO](https://gitcoin.co/)
             
-            - ive been interested in blockchain tech since dec/2020 and have spent most of my time learning to build or ignoring taxable events since...
+            - blockchain tech has interested me since dec/2020 and I've spent most of my time learning to build or ignoring taxable events since...
 
             - open to React, Javascript, and Solidity oriented work
 
