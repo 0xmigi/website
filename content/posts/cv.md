@@ -52,6 +52,12 @@ editPost:
 
 **work experience**
 
+Analyst 
+
+[Aave Grants DAO](https://aavegrants.org/), remote - *(20/07/2022-present)*
+
+Producing reports covering AGD activities and impact on the Aave ecosystem along with providing additional supporting grantees
+
 User Support 
 
 [Gitcoin](https://gitcoin.co/), remote - *(18/02/2022-present)*
