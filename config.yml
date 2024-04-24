@@ -111,11 +111,11 @@ params:
 
             - i'm currently enjoying the internet and staying healthly
 
-            - i help out at [AGD](https://aavegrants.org/) and less often at [GitcoinDAO](https://gitcoin.co/)
+            - for work i help at [AGD](https://aavegrants.org/) along with odd operations jobs for other grant programs, notably Arbiturm
             
-            - blockchain tech has interested me since dec/2020 and I've spent most of my time learning to build or ignoring taxable events since...
+            - crypto has interested me since dec/2020 and I've spent most of my time learning to build or ignoring taxable events since...
 
-            - open to React, Javascript, and Solidity oriented work
+            - if you want my help with a job, let me know 
 
     socialIcons:
         - name: twitter
@@ -125,7 +125,7 @@ params:
         - name: KoFi
           url: "https://ko-fi.com/0xmigi"
         - name: discord
-          url: "https://discord.com/users/0xmigi#6739"  
+          url: "https://discord.com/users/0xmigi"  
 
     cover:
         hidden: true # hide everywhere but not in structured data

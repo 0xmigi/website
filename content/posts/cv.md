@@ -58,18 +58,17 @@ Analyst
 
 Producing reports covering AGD activities and impact on the Aave ecosystem along with providing additional supporting grantees
 
+Contract Jobs
+
+Grant Operations Database, remote - *(15/12/2023-10/04/2024)* 
+
+built out a full operations CRM for running and tracking multiple grant programs funding project within the Arbitrum L2 ecosystem. [Diagram of the full process](https://www.tldraw.com/r/VMOLVqemOcy7FfDwouCID?v=-1964,-879,9061,3941&p=page) which serves data for the [Arbitrumhub.io](https://www.arbitrumhub.io/) website
+
 User Support 
 
-[Gitcoin](https://gitcoin.co/), remote - *(18/02/2022-present)*
+[Gitcoin](https://gitcoin.co/), remote - *(18/02/2022-09/05/2023)*
 
 Actively helping within GitcoinDAO with User Support, getting more invoved in other workstreams like FDD
-
-
-Frontend React.js  
-
-[chewy](https://cwy.money/), remote - *(23/02/2022-present)*
-
-Build a frontend with react.js and plain CSS. ex: [site](https://still-brook-8232.on.fleek.co/)
 
 
 FullStack Web3
@@ -82,13 +81,6 @@ helped UI aspects of startup website and widget product
 [gasFees.lol](https://gasfees.lol/), remote - *(05/12/2021-present)*
 
 Desinged and built a multi chain gas fee dashboard for tracking and comparing transaction costs across popular L1, L2 and, side chains. Still a work in progess but has around +-1000 users.
-
-
-Solidity Development
-
-[MetAvatar](https://metavatar.digital/), remote – *(01/10/2021-present)*
-
-Assisted in thinking through and building NFT minting page/website. Researched other projects code and wrote smart contracts designed for ongoing NFT platform.
 
 
 Independant Research
