@@ -63,7 +63,7 @@ params:
     disableThemeToggle: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: false
@@ -122,8 +122,8 @@ params:
           url: "https://github.com/0xmigi"
         - name: telegram
           url: "https://t.me/Oxmigi"
-        - name: warpcaster
-          url: "https://warpcast.com/0xmigi.eth"
+        - name: paragraph
+          url: "https://paragraph.xyz/@0xmigi.eth/"
 
     cover:
         hidden: true # hide everywhere but not in structured data
