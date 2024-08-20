@@ -111,21 +111,19 @@ params:
 
             - i'm currently enjoying the internet and staying healthly
 
-            - for work i help at [AGD](https://aavegrants.org/) along with odd operations jobs for other grant programs, notably Arbiturm
+            - for work i help at [AGD](https://aavegrants.org/) along with odd operations jobs for other grant programs, notably Arbitrum
             
-            - crypto has interested me since dec/2020 and I've spent most of my time learning to build or ignoring taxable events since...
-
-            - if you want my help with a job, let me know 
+            - crypto social is a large area of interest for me, I write/post my thoughts about it sometimes
 
     socialIcons:
         - name: twitter
           url: "https://twitter.com/0xmigi"
         - name: github
           url: "https://github.com/0xmigi"
-        - name: KoFi
-          url: "https://ko-fi.com/0xmigi"
-        - name: discord
-          url: "https://discord.com/users/0xmigi"  
+        - name: telegram
+          url: "https://t.me/Oxmigi"
+        - name: warpcaster
+          url: "https://warpcast.com/0xmigi.eth"
 
     cover:
         hidden: true # hide everywhere but not in structured data

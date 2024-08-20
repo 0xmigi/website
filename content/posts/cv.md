@@ -52,7 +52,7 @@ editPost:
 
 **work experience**
 
-Analyst 
+Grants Analyst 
 
 [Aave Grants DAO](https://aavegrants.org/), remote - *(20/07/2022-present)*
 
